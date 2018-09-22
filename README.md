@@ -6,6 +6,16 @@ Learning stage
 知识点梳理
 
 
+export&import
+
+export let client = 'APP'  //输出变量
+export function mul(x, y){  //输出函数
+    return x + y
+}
+export class Toast(){} //输出类
+
+
+
 Restful API 
 REST 全称 Representation State Transfor (资源表现层状态改变)
 
