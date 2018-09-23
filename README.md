@@ -3,10 +3,11 @@ workspace
 
 Learning stage
 
-知识点梳理
+REACTJS 知识点梳理
+1. DOM元素
+每个DOM元素都包含三个要素：标签名，属性，子元素
 
-
-export&import
+2. export&import
 
 export let client = 'APP'  //输出变量
 export function mul(x, y){  //输出函数
@@ -16,7 +17,7 @@ export class Toast(){} //输出类
 
 
 
-Restful API 
+3. Restful API 
 REST 全称 Representation State Transfor (资源表现层状态改变)
 
 实际上是指客户端通过http/https协议手段来改变URI的状态转化，达到请求不同的资源的目的。
